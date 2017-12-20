@@ -1,0 +1,8 @@
+/build/
+/dist/
+/nbproject/private/
+.classpath
+.project
+.settings/
+*.jrxml
+*.orig
